@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">IDVENTURE</string>
+    <string name="judul">Daftar Wisata Indonesia </string>
+    <string name="toolbar">Wisata Indonesia</string>
+    <string name="camila_faiza">Camila Faiza</string>
+    <string name="bio">Camila Faiza</string>
+    <string name="ju">Mahasiswa Jurusan Sistem Informasi</string>
+    <string name="ju2">Universitas Andalas</string>
+    <string name="foto">Foto</string>
+    <string name="b">125</string>
+    <string name="tgl">Tanggal Lahir</string>
+    <string name="c">26/01/2002</string>
+    <string name="umur">Umur</string>
+    <string name="u">18 Tahun</string>
+    <string name="email">camilafaizam@gmail.com</string>
+    <string name="phone">+6282383988626</string>
+    <string name="ig">camilafaiza</string>
+    <string name="git">camilafaiza26</string>
+    <string name="wisata">Wisata</string>
+    <string name="detail">Detail Wisata</string>
+    <string name="detail1">Deskripsi Wisata</string>
+    <string name="m">Alamat Wisata</string>
+</resources>
