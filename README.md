@@ -1,4 +1,4 @@
 # android-project1
-Splash Screen
-Intent with move data 
-List View , Recycle view
+Belajar membuat aplikasi android untuk pemula dicoding
+# ScreenShoot 
+
